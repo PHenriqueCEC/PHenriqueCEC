@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Pedro Henrique and I am currently Computer Science undergraduate student at Federal University of Juiz de Fora (UFJF).
 
-- 🌱 I’m currently ReactNative and NodeJs
+- 🌱 I’m currently learning ReactNative and NodeJs
 - 📫 How to reach me: [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/pedro-henrique-77baa01a9/") 
 
 - ⚡ Fun fact: I was a member of the best robotics team in Brazil: [Rinobot](https://github.com/rinobot-team) 
